@@ -1,8 +1,8 @@
 # Snake
 A classic Snake game written in C# using GDI+.
 
-# Platform
+## Platform
 Windows form.
 
-# Control
+## Control
 Use key arrow to control the snake. 
